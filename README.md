@@ -1,4 +1,4 @@
-# Análise I-O do setor automobilístico
+# Análise Insumo-Produto do setor automobilístico
 Análise do setor automotivo usando o método do Insumo-Produto (Python)
 
 # bibliotecas
